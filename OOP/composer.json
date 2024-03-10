@@ -1,0 +1,16 @@
+{
+    "name": "viktor/oop",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Viktor\\Oop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nsdbp3",
+            "email": "xramov14881@gmail.com"
+        }
+    ],
+    "require": {}
+}
